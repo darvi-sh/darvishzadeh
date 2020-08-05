@@ -8,7 +8,7 @@ Used Vue and React. Love working with CSS. Care about web accessibility and UX.
 
 Totally cool with testing, typescript and following standards.
 
-You can grab my latest resume from (my website)[https://darvi.sh].
+You can grab my latest resume from [my website](https://darvi.sh).
 
 <!--
 **darvishzadeh/darvishzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
