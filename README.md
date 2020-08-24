@@ -8,6 +8,8 @@ Used Vue and React. Love working with CSS. Care about web accessibility and UX.
 
 Totally cool with testing, typescript and following standards.
 
+Repositories here are mostly code challenges or pet projects.
+
 You can grab my latest resume from [here](https://darvi.sh).
 
 <!--
