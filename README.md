@@ -2,6 +2,8 @@
 
 Sonny [here](https://darvi.sh) 🙃
 
+As my Linkedin profile says: I am a frontend developer with interest in visual aspects of the user interfaces, design systems, user experience, product performance and data visualisation.
+
 <!--
 Here are some ideas to get you started:
 
